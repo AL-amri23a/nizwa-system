@@ -1,0 +1,63 @@
+nizwa-system/
+├─ css/
+│  └─ style.css
+├─ inc/
+│  └─ config.php
+│  └─ auth.php
+├─ assets/
+│  └─ logo.png
+│  └─ audio_guide.mp3
+│  └─ signature.png
+│  └─ stamp.png
+├─ register.php
+├─ login.php
+├─ logout.php
+├─ dashboard.php
+├─ courses.php
+├─ enroll.php
+├─ attendance.php
+├─ request_training.php
+├─ evaluate.php
+├─ certificate.php
+└─ README.txt
+
+
+
+training_management_system/
+│
+├── inc/
+│   ├── header.php
+│   ├── footer.php
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   ├── images/
+│       └── logo.png
+│
+├── uploads/
+│   └── certificates/        ← هنا تُخزّن ملفات PDF أو الصور المرفوعة
+│
+├── config/
+│   └── db.php               ← ملف الاتصال بقاعدة البيانات
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── trainees.php
+│   ├── attendance.php
+│   ├── evaluation.php
+│   └── upload_certificate.php
+│
+├── user/
+│   ├── dashboard.php
+│   ├── upload_request.php
+│   ├── progress.php
+│   ├── evaluation_view.php
+│
+├── index.php
+├── login.php
+├── register.php
+├── logout.php
+└── README.txt

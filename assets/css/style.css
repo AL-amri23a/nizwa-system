@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to bottom right, #0056b3, #0099cc);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Tajawal', sans-serif;
+}
+.card {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 30px;
+}
+.btn {
+  border-radius: 10px;
+}
+
